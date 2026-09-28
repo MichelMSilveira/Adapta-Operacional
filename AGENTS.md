@@ -6,7 +6,7 @@ Este projeto deve ser construido a partir das informacoes reais fornecidas pelo 
 ## Inicio de tarefa
 1. Ler `PROJECT.md`.
 2. Ler `docs/STATUS.md`.
-3. Consultar `docs/SESSION.md` se houver continuidade pendente.
+3. Consultar `docs/WORKLOG.md` para histórico e `docs/SESSION.md` somente se esse arquivo tiver sido criado para uma passagem de turno.
 4. Ler apenas os arquivos necessarios para a tarefa atual.
 
 ## Confiabilidade
