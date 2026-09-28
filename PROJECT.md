@@ -4,7 +4,7 @@
 - Nome: Projeto Jurandi
 - Responsavel: Michel Silveira
 - Tipo de projeto: sistema/processos para cliente empreiteiro
-- Repositorio: MichelMSilveira/jurandi
+- Repositorio: MichelMSilveira/Adapta-Operacional
 
 ## Objetivo
 Modelar e desenvolver um sistema aderente a operacao real do cliente Jurandi, preservando a autenticidade dos processos, identidade, necessidades e forma de trabalho informadas pelo proprio cliente.
